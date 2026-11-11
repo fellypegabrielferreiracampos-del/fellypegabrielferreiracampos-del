@@ -1,5 +1,5 @@
 ### **Hey there** 👋
-Eu sou **Fellype Gabriel Ferreira Campos**, quero aprender mais sobre tecnologia e cursando o curso de programação full stack no senai
+Eu sou **Fellype Gabriel Ferreira Campos**, quero aprender mais sobre tecnologia e cursando o curso de programação full stack no senai.
 
 
 <hr/>
